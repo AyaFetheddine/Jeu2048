@@ -130,7 +130,7 @@ graph TB
 
 ```bash
 # 1. Cloner le repository
-git clone https://github.com/VOTRE-USERNAME/jeu-2048.git
+git clone https://github.com/AyaFetheddine/jeu-2048.git
 cd jeu-2048
 
 # 2. Build de l'image Docker
@@ -412,10 +412,10 @@ VERSION="v${{ github.run_number }}-$(echo ${{ github.sha }} | cut -c1-7)"
 
 **Aya Fetheddine**
 - 🎓 **École :** EMSI (École Marocaine des Sciences de l'Ingénieur)
-- 📚 **Cours :** DevOps - Semestre 2
-- 📧 **Email :** Aya.Fetheddine@emsi-edu.ma
+- 📚 **Cours :** DevOps - S8
+- 📧 **Email :** Ayafetheddine@gmail.com
 - 💼 **LinkedIn :** [Votre profil LinkedIn]
-- 🐙 **GitHub :** [@VOTRE-USERNAME](https://github.com/VOTRE-USERNAME)
+- 🐙 **GitHub :** [@Aya](https://github.com/AyaFetheddine)
 
 ---
 
